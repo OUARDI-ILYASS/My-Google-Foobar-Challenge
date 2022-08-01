@@ -10,6 +10,7 @@ What is cool about Foobar is that it takes place on a virtual server, to which y
 -
 
 ### Level 1 - [Solar Doomsday](level-1/solar-doomsday)
+This level had only one question, which was pretty straightforward and easy to solve.
 <p align="center">
   <img src="images/gfoobar.gif" width=50% />
 </p>
