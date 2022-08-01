@@ -5,5 +5,5 @@ For every problem, you can either submit a solution written in Python (2.7) or J
 What is cool about Foobar is that it takes place on a virtual server, to which you gain access once invited into the challenge.
 
 <p align="center">
-  <img src="images/gfoobar.jpg" width=85% />
+  <img src="images/gfoobar.png" width=85% />
 </p>
