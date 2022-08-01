@@ -7,6 +7,8 @@ What is cool about Foobar is that it takes place on a virtual server, to which y
 <p align="center">
   <img src="images/gfoobar.png" width=85% />
 </p>
+-
+
 ### Level 1
 - [Solar Doomsday](level-1/solar-doomsday)
 
