@@ -9,8 +9,7 @@ What is cool about Foobar is that it takes place on a virtual server, to which y
 </p>
 -
 
-### Level 1
-- [Solar Doomsday](level-1/solar-doomsday)
+### Level 1 - [Solar Doomsday](level-1/solar-doomsday)
 
 ### Level 2
 
