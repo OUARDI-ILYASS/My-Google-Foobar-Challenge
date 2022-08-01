@@ -10,6 +10,9 @@ What is cool about Foobar is that it takes place on a virtual server, to which y
 -
 
 ### Level 1 - [Solar Doomsday](level-1/solar-doomsday)
+<p align="center">
+  <img src="images/gfoobar.gif" width=50% />
+</p>
 
 ### Level 2
 
@@ -20,6 +23,4 @@ What is cool about Foobar is that it takes place on a virtual server, to which y
 ### Level 5
 
 ----
-<p align="center">
-  <img src="images/gfoobar.gif" width=50% />
-</p>
+
