@@ -9,14 +9,14 @@ What is cool about Foobar is that it takes place on a virtual server, to which y
 </p>
 -
 
-### Level 1 - [Solar Doomsday](level-1/solar-doomsday)
-This level had only one question, which was pretty straightforward and easy to solve.
+### Level 1 
+- [Solar Doomsday](level-1/solar-doomsday)
 <p align="center">
   <img src="images/gfoobar.gif" width=50% />
 </p>
 
-### Level 2 - [Power Hungry](level-2/power-hungry)
-This level had only one question, which was pretty straightforward and easy to solve.
+### Level 2 
+- [Power Hungry](level-2/power-hungry)
 <p align="center">
   <img src="images/gfoobar.gif" width=50% />
 </p>
