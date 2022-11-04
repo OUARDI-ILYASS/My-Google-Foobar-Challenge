@@ -29,22 +29,22 @@ Note that it may also be run against hidden test cases not shown here.
 
 ### Java cases
 #### Input:      
-Solution.solution(3, 2)       
+```Solution.solution(3, 2)```       
 #### Output:       
     9
 
 #### Input:      
-Solution.solution(5, 10)       
+```Solution.solution(5, 10) ```      
 #### Output:      
     96       
 
 ### Python cases         
 #### Input:         
-solution.solution(5, 10)             
+```Solution.solution(5, 10)```             
 #### Output:           
     96       
 
 #### Input:           
-solution.solution(3, 2)            
+```Solution.solution(3, 2)```            
 #### Output:                  
     9        
