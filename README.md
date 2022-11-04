@@ -16,6 +16,7 @@ What is cool about Foobar is that it takes place on a virtual server, to which y
 
 ### Level 2 
 - [Power Hungry](level-2/power-hungry)
+- [Bunny Worker Locations](level-2/bunny-worker-locations)
 
 
 ### Level 3
