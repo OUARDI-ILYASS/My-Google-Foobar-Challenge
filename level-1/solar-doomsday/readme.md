@@ -1,4 +1,5 @@
-## Solar Doomsday
+Solar Doomsday
+======================
 
 Who would've guessed? Doomsday devices take a LOT of power. 
 Commander Lambda wants to supplement the LAMBCHOP's quantum antimatter 
@@ -21,45 +22,52 @@ squares you could make out of those panels, starting with the largest
 squares first. So, following the example above, solution(12) would return 
 [9, 1, 1, 1].
 
-### Languages
+Languages
+=========
 
 To provide a Python solution, edit solution.py
 
 To provide a Java solution, edit Solution.java
 
-### Test cases
+Test cases
+=========
+
 Your code should pass the following test cases.
 Note that it may also be run against hidden test cases not shown here.
 
-#### -- Python cases --
-#### Test case 1
-Input:
-solution.solution(15324)
+### Python cases        
+#### Test case 1         
+#### Input:         
+```
+solution.solution(15324)      
+```
+#### Output:           
+15129,169,25,1            
 
-Output:
-15129,169,25,1
-
-#### Test case 2
-Input:
+#### Test case 2            
+#### Input:       
+```
 solution.solution(12)
+```
+#### Output:               
+9,1,1,1            
 
-Output:
-9,1,1,1
-
-#### -- Java cases --
-#### Test case 1
-Input:
+### Java cases
+#### Test case 1           
+#### Input:
+```
 Solution.solution(12)
-
-Output:
-9,1,1,1
+```
+#### Output:            
+9,1,1,1       
 
 #### Test case 2
 Input:
+```
 Solution.solution(15324)
-
-Output:
-15129,169,25,1
+```
+#### Output:        
+15129,169,25,1       
 
 Use verify [file] to test your solution and see how it does. 
 When you are finished editing your code, use submit [file] to submit 
