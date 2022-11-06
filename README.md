@@ -20,6 +20,7 @@ What is cool about Foobar is that it takes place on a virtual server, to which y
 
 
 ### Level 3
+- [Prepare the Bunnies' Escape](level-3/prepare-the-bunnies-escape)
 
 ### Level 4
 
